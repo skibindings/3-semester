@@ -1,0 +1,2 @@
+﻿add_executable(test_coursework main.cpp)
+target_link_libraries(test_coursework coursework)
